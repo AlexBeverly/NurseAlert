@@ -1,0 +1,127 @@
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\NurseAlert.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\obj\Debug\NurseAlert.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\obj\Debug\NurseAlert.Form1.resources
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\obj\Debug\NurseAlert.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\obj\Debug\NurseAlert.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\NurseAlert.exe
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\NurseAlert.pdb
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\obj\Debug\NurseAlert.exe
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\obj\Debug\NurseAlert.pdb
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\Newtonsoft.Json.dll
+c:\users\alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\avcodec-57.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\avdevice-57.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\avfilter-6.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\avformat-57.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\avutil-55.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\postproc-54.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\swresample-2.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\swscale-4.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\Accord.dll.config
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\Accord.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\Accord.Video.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\Accord.Video.FFMPEG.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\ZedGraph.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\Accord.xml
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\Accord.Video.xml
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\Accord.Video.FFMPEG.xml
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\ZedGraph.xml
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Alex\documents\visual studio 2015\Projects\NurseAlert\NurseAlert\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\avcodec-57.dll
+E:\NurseAlert\NurseAlert\bin\Debug\avdevice-57.dll
+E:\NurseAlert\NurseAlert\bin\Debug\avfilter-6.dll
+E:\NurseAlert\NurseAlert\bin\Debug\avformat-57.dll
+E:\NurseAlert\NurseAlert\bin\Debug\avutil-55.dll
+E:\NurseAlert\NurseAlert\bin\Debug\postproc-54.dll
+E:\NurseAlert\NurseAlert\bin\Debug\swresample-2.dll
+E:\NurseAlert\NurseAlert\bin\Debug\swscale-4.dll
+E:\NurseAlert\NurseAlert\bin\Debug\Accord.dll.config
+E:\NurseAlert\NurseAlert\bin\Debug\NurseAlert.exe.config
+E:\NurseAlert\NurseAlert\bin\Debug\NurseAlert.exe
+E:\NurseAlert\NurseAlert\bin\Debug\NurseAlert.pdb
+E:\NurseAlert\NurseAlert\bin\Debug\Accord.dll
+E:\NurseAlert\NurseAlert\bin\Debug\Accord.Video.dll
+E:\NurseAlert\NurseAlert\bin\Debug\Accord.Video.FFMPEG.dll
+E:\NurseAlert\NurseAlert\bin\Debug\Newtonsoft.Json.dll
+E:\NurseAlert\NurseAlert\bin\Debug\ZedGraph.dll
+E:\NurseAlert\NurseAlert\bin\Debug\Accord.xml
+E:\NurseAlert\NurseAlert\bin\Debug\Accord.Video.xml
+E:\NurseAlert\NurseAlert\bin\Debug\Accord.Video.FFMPEG.xml
+E:\NurseAlert\NurseAlert\bin\Debug\Newtonsoft.Json.xml
+E:\NurseAlert\NurseAlert\bin\Debug\ZedGraph.xml
+E:\NurseAlert\NurseAlert\bin\Debug\de\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\es\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\fr\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\hu\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\it\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\ja\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\pt\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\ru\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\sk\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\sv\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\tr\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.csprojResolveAssemblyReference.cache
+E:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.Form1.resources
+E:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.Properties.Resources.resources
+E:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.csproj.GenerateResource.cache
+E:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.csproj.CoreCompileInputs.cache
+E:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.csproj.CopyComplete
+E:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.exe
+E:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.pdb
+F:\NurseAlert\NurseAlert\bin\Debug\avcodec-57.dll
+F:\NurseAlert\NurseAlert\bin\Debug\avdevice-57.dll
+F:\NurseAlert\NurseAlert\bin\Debug\avfilter-6.dll
+F:\NurseAlert\NurseAlert\bin\Debug\avformat-57.dll
+F:\NurseAlert\NurseAlert\bin\Debug\avutil-55.dll
+F:\NurseAlert\NurseAlert\bin\Debug\postproc-54.dll
+F:\NurseAlert\NurseAlert\bin\Debug\swresample-2.dll
+F:\NurseAlert\NurseAlert\bin\Debug\swscale-4.dll
+F:\NurseAlert\NurseAlert\bin\Debug\Accord.dll.config
+F:\NurseAlert\NurseAlert\bin\Debug\NurseAlert.exe.config
+F:\NurseAlert\NurseAlert\bin\Debug\NurseAlert.exe
+F:\NurseAlert\NurseAlert\bin\Debug\NurseAlert.pdb
+F:\NurseAlert\NurseAlert\bin\Debug\Accord.dll
+F:\NurseAlert\NurseAlert\bin\Debug\Accord.Video.dll
+F:\NurseAlert\NurseAlert\bin\Debug\Accord.Video.FFMPEG.dll
+F:\NurseAlert\NurseAlert\bin\Debug\Newtonsoft.Json.dll
+F:\NurseAlert\NurseAlert\bin\Debug\ZedGraph.dll
+F:\NurseAlert\NurseAlert\bin\Debug\Accord.xml
+F:\NurseAlert\NurseAlert\bin\Debug\Accord.Video.xml
+F:\NurseAlert\NurseAlert\bin\Debug\Accord.Video.FFMPEG.xml
+F:\NurseAlert\NurseAlert\bin\Debug\Newtonsoft.Json.xml
+F:\NurseAlert\NurseAlert\bin\Debug\ZedGraph.xml
+F:\NurseAlert\NurseAlert\bin\Debug\de\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\es\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\fr\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\hu\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\it\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\ja\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\pt\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\ru\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\sk\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\sv\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\tr\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\zh-cn\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\bin\Debug\zh-tw\ZedGraph.resources.dll
+F:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.csprojAssemblyReference.cache
+F:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.Form1.resources
+F:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.Properties.Resources.resources
+F:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.csproj.GenerateResource.cache
+F:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.csproj.CoreCompileInputs.cache
+F:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.csproj.CopyComplete
+F:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.exe
+F:\NurseAlert\NurseAlert\obj\Debug\NurseAlert.pdb
